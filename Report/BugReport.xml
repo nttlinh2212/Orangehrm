@@ -1,0 +1,1041 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>3940</WindowHeight>
+  <WindowWidth>14360</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Interior ss:Color="#808080" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="18CLC.E1">
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="47" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+   <Column ss:AutoFitWidth="0" ss:Width="110"/>
+   <Row>
+    <Cell><Data ss:Type="String">ID</Data></Cell>
+    <Cell><Data ss:Type="String">Project</Data></Cell>
+    <Cell><Data ss:Type="String">Reporter</Data></Cell>
+    <Cell><Data ss:Type="String">Assigned To</Data></Cell>
+    <Cell><Data ss:Type="String">Priority</Data></Cell>
+    <Cell><Data ss:Type="String">Severity</Data></Cell>
+    <Cell><Data ss:Type="String">Reproducibility</Data></Cell>
+    <Cell><Data ss:Type="String">Product Version</Data></Cell>
+    <Cell><Data ss:Type="String">Category</Data></Cell>
+    <Cell><Data ss:Type="String">Date Submitted</Data></Cell>
+    <Cell><Data ss:Type="String">OS</Data></Cell>
+    <Cell><Data ss:Type="String">OS Version</Data></Cell>
+    <Cell><Data ss:Type="String">Platform</Data></Cell>
+    <Cell><Data ss:Type="String">View Status</Data></Cell>
+    <Cell><Data ss:Type="String">Updated</Data></Cell>
+    <Cell><Data ss:Type="String">Summary</Data></Cell>
+    <Cell><Data ss:Type="String">Status</Data></Cell>
+    <Cell><Data ss:Type="String">Resolution</Data></Cell>
+    <Cell><Data ss:Type="String">Fixed in Version</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44479</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">SQL Injection Employee có thể apply leave thành công cho một Employee khác</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44477</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">SQL Injection Employee có thể apply leave thành công cho một Employee khác</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44642</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Ứng dụng không thể đáp ứng 100 người dùng cùng apply leave</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44640</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Ứng dụng không thể đáp ứng 100 người dùng cùng view my leave</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44638</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">ứng dụng không thể đáp ứng 100 người dùng cùng đăng nhâp</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44561</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">GUI trang Add user không thỏa mãn một số yêu cầu trong Checklist</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44487</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">SQL Injection Employee có thể apply leave thành công cho một Employee khác</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44339</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">MacOS</Data></Cell>
+    <Cell><Data ss:Type="String">Mojave</Data></Cell>
+    <Cell><Data ss:Type="String">Safari </Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">Giao diện Buzz trên MacOS-Mojave, Safari có vấn đề</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44338</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">IOS</Data></Cell>
+    <Cell><Data ss:Type="Number">13.4</Data></Cell>
+    <Cell><Data ss:Type="String">IPad Pro, Safari</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">Giao diện Buzz trên IOS13.4-IPad Pro, Safari có vấn đề</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44238</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Không cho phép edit một Leave Entitlement với Entitlement có 1 chữ số thập phân</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44233</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Lổi số days của entitlement khi thêm Leave Entitlement 2 lần cho một nhân viên với tổng entitlement 2 lần &gt;10000</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44208</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">private</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Không cho phép thêm mới một Leave Entitlement với Entitlement có 1 chữ số thập phân</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44198</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-20</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">private</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-20</Data></Cell>
+    <Cell><Data ss:Type="String">Nộp đơn xin nghỉ không vào giờ hành chính làm việc vẫn thành công</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44257</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm một nationalites có Name là 0</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44256</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm một membership có Name là 0</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44255</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm một language có name là 0</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44254</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm một licenses có Name là 0.</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44253</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm một skill có Name là 0.</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44252</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm một locations có locations name là 0</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44251</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm một Work Shift có Shift Name là 0.</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44250</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm một job categories có name là 0.</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">44247</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm một job title có job name là 0.</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44553</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Không thể thực hiện send test mail trong Email Configuration</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44284</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">Error GUI trang Apply Leave</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44285</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">Error GUI trang My Leave</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44330</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">GUI trang Add Entitlements không thỏa mãn một số yêu cầu trong Checklist</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44331</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">GUI trang Employee Entitlements không thỏa mãn một số yêu cầu trong Checklist</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44333</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">GUI trang My Entitlements không thỏa mãn một số yêu cầu trong Checklist</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44290</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">have not tried</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">Error GUI trang Leave List</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44299</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-22</Data></Cell>
+    <Cell><Data ss:Type="String">Error GUI trang Location</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44259</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web apps</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Không chỉnh sửa gì ở trường Email Subcriptions nhưng vẫn hiển thị thông báo Successfully Save.</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44258</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">windowns</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Thực hiện nhấn nút Edit ở Email Notification nhưng không hiện lên thông tin để chỉnh sửa.</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44243</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm mới thành công một Leave Entitlement cho một employee với Entitlement = 0</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44240</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Error message sai khi edit Leave Entitlement cho một employee với Entitlement là số âm</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44236</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Không có error message khi tìm kiếm Leave Entitlements của một nhân viên không tồn tại</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44214</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Error message sai khi thêm mới một Leave Entitlement cho một employee với Entitlement là số âm</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44205</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">private</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Không có error mesage khi search leave list bỏ trống to</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44204</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">private</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Không có error mesage khi search leave list bỏ trống from</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44203</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">private</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Không có error khi search my leave list bỏ trống to</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44202</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">private</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-21</Data></Cell>
+    <Cell><Data ss:Type="String">Không có error khi search my leave list bỏ trống from</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44200</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-20</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">private</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-20</Data></Cell>
+    <Cell><Data ss:Type="String">Không có error message khi apply leave nhiều ngày có non-working day và working day</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44199</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-20</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">private</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-20</Data></Cell>
+    <Cell><Data ss:Type="String">Apply leave fullday vào half day working không có error message</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44190</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-20</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">private</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-20</Data></Cell>
+    <Cell><Data ss:Type="String">Không có error message khi thực hiện chức năng tìm các Holidays với Date From &gt; Date To</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44186</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127127</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">low</Data></Cell>
+    <Cell><Data ss:Type="String">minor</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-20</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">web app</Data></Cell>
+    <Cell><Data ss:Type="String">private</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-20</Data></Cell>
+    <Cell><Data ss:Type="String">Thêm mới một Holiday với Date trùng lặp Holiday cũ</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="Number">43949</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">feature</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-07-30</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">OrangeHRM 4.5</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-08-23</Data></Cell>
+    <Cell><Data ss:Type="String">Lỗi khi không có dữ liệu đầu vào để tìm kiếm nhưng vẫn tìm kiếm được</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43948</Data></Cell>
+    <Cell><Data ss:Type="String">18CLC.E1</Data></Cell>
+    <Cell><Data ss:Type="String">2021.CLC.E1.18127274</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">feature</Data></Cell>
+    <Cell><Data ss:Type="String">always</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2021-07-30</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">OrangeHRM 4.5</Data></Cell>
+    <Cell><Data ss:Type="String">public</Data></Cell>
+    <Cell><Data ss:Type="String">2021-07-30</Data></Cell>
+    <Cell><Data ss:Type="String">Lỗi không có dữ liệu tìm kiếm vẫn có thể tìm kiếm được.</Data></Cell>
+    <Cell><Data ss:Type="String">new</Data></Cell>
+    <Cell><Data ss:Type="String">open</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <TopRowVisible>30</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>45</ActiveRow>
+     <RangeSelection>R46</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Thread Group:viewMyLeaveList,100,22166,7908,42028,7498.33,48.00%,1.0394,83.76,38.32,82523.5
+Thread Group:Test,100,62541,18508,92137,13035.59,53.00%,0.92973,1371.81,81.25,1510908.5
+TOTAL,200,42354,7908,92137,22816.71,50.50%,1.85946,1446.74,115.53,796716

@@ -1,0 +1,96 @@
+1
+00:00:00,001 --> 00:00:00,004
+1. com.database.mysql.connectDB("localhost", "orangehrm_mysql", "3306", "root", null)
+
+2
+00:00:00,005 --> 00:00:00,006
+5. com.database.mysql.execute("DELETE FROM `ohrm_user` WHERE `ohrm_user`.`user_name` = 'hoa123'")
+
+3
+00:00:00,007 --> 00:00:00,009
+9. com.database.mysql.closeDatabaseConnection()
+
+4
+00:00:00,009 --> 00:00:01,483
+13. openBrowser("")
+
+5
+00:00:01,483 --> 00:00:02,029
+17. navigateToUrl("http://localhost/orangehrm/orangehrm-4.5/symfony/web/index.php/auth/login")
+
+6
+00:00:02,030 --> 00:00:02,580
+21. click(findTestObject("Object Repository/Page_OrangeHRM/span_Username"))
+
+7
+00:00:02,581 --> 00:00:03,288
+25. setText(findTestObject("Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername"), "admin")
+
+8
+00:00:03,289 --> 00:00:03,702
+29. setEncryptedText(findTestObject("Object Repository/Page_OrangeHRM/input_Username_txtPassword"), "OJ5pvyq/3K4ywSlMT7FtRQ==")
+
+9
+00:00:03,702 --> 00:00:05,260
+33. click(findTestObject("Object Repository/Page_OrangeHRM/input_Password_Submit"))
+
+10
+00:00:05,261 --> 00:00:06,979
+37. click(findTestObject("Object Repository/Page_OrangeHRM/b_Admin"))
+
+11
+00:00:06,980 --> 00:00:07,956
+41. click(findTestObject("Object Repository/Page_OrangeHRM/input_Status_btnAdd"))
+
+12
+00:00:07,957 --> 00:00:09,091
+45. selectOptionByValue(findTestObject("Object Repository/Page_OrangeHRM/select_AdminESS"), user_role, true)
+
+13
+00:00:09,091 --> 00:00:09,778
+49. setText(findTestObject("Object Repository/Page_OrangeHRM/input__systemUseremployeeNameempName"), emp_name)
+
+14
+00:00:09,778 --> 00:00:10,511
+53. setText(findTestObject("Object Repository/Page_OrangeHRM/input__systemUseruserName"), username)
+
+15
+00:00:10,512 --> 00:00:11,426
+57. setText(findTestObject("Object Repository/Page_OrangeHRM/input__systemUserpassword"), password)
+
+16
+00:00:11,426 --> 00:00:14,156
+61. setText(findTestObject("Object Repository/Page_OrangeHRM/input__systemUserconfirmPassword"), confirm_password)
+
+17
+00:00:14,157 --> 00:00:14,698
+65. click(findTestObject("Object Repository/Page_OrangeHRM/input__btnSave"))
+
+18
+00:00:14,699 --> 00:00:15,820
+69. click(findTestObject("Page_OrangeHRM/b_Admin"))
+
+19
+00:00:15,821 --> 00:00:16,631
+73. setText(findTestObject("Page_OrangeHRM/input_Username_searchSystemUseruserName"), username)
+
+20
+00:00:16,631 --> 00:00:17,418
+77. click(findTestObject("Page_OrangeHRM/input_Status__search"))
+
+21
+00:00:17,419 --> 00:00:17,419
+81. if (expectedresult.equals("YES"))
+
+22
+00:00:17,421 --> 00:00:17,422
+85. if (expectedresult.equals("NO"))
+
+23
+00:00:17,423 --> 00:00:17,914
+1. verifyElementVisible(findTestObject("Page_OrangeHRM/td_No Records Found"))
+
+24
+00:00:17,915 --> 00:00:18,641
+89. closeBrowser()
+

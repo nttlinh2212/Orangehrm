@@ -1,0 +1,160 @@
+1
+00:00:00,002 --> 00:00:00,007
+1. com.database.mysql.connectDB("localhost", "orangehrm_mysql", "3306", "root", null)
+
+2
+00:00:00,008 --> 00:00:00,009
+5. com.database.mysql.execute("DELETE FROM `ohrm_leave_request` WHERE `emp_number`=3 AND `date_applied`='2021-09-02' AND `leave_type_id` = 3")
+
+3
+00:00:00,010 --> 00:00:00,015
+9. com.database.mysql.execute("DELETE FROM `ohrm_leave` WHERE `emp_number` = 3 AND `leave_type_id`=3 and (`date`='2021-09-02' or `date`='2021-09-03') ")
+
+4
+00:00:00,015 --> 00:00:00,016
+13. com.database.mysql.closeDatabaseConnection()
+
+5
+00:00:00,017 --> 00:00:01,059
+17. navigateToUrl("http://localhost/orangehrm/symfony/web/index.php/dashboard")
+
+6
+00:00:01,060 --> 00:00:02,768
+21. click(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/img"))
+
+7
+00:00:02,770 --> 00:00:04,223
+25. selectOptionByValue(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/select_--Select--MarriageMaternityPersonalS_480ad7"), "3", true)
+
+8
+00:00:04,224 --> 00:00:06,403
+29. setText(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input__applyleavetxtFromDate"), from)
+
+9
+00:00:06,404 --> 00:00:06,925
+33. sendKeys(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input__applyleavetxtFromDate"), Keys.chord(ENTER))
+
+10
+00:00:06,926 --> 00:00:09,112
+37. setText(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input__applyleavetxtToDate"), to)
+
+11
+00:00:09,113 --> 00:00:09,637
+41. sendKeys(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input__applyleavetxtToDate"), Keys.chord(ENTER))
+
+12
+00:00:09,638 --> 00:00:09,639
+45. if (from.equals(to))
+
+13
+00:00:09,640 --> 00:00:11,610
+2. selectOptionByValue(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/select_NoneAll DaysStart Day OnlyEnd Day On_3e5258"), partialDays, true)
+
+14
+00:00:11,611 --> 00:00:11,611
+6. if (partialDays.equals("all") || partialDays.equals("start"))
+
+15
+00:00:11,615 --> 00:00:11,616
+10. if (partialDays.equals("end"))
+
+16
+00:00:11,617 --> 00:00:11,618
+14. if (partialDays.equals("start_end"))
+
+17
+00:00:11,618 --> 00:00:12,761
+1. selectOptionByValue(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/applyleave_firstDuration_duration"), duration1, true)
+
+18
+00:00:12,762 --> 00:00:12,763
+5. if (duration1.equals("half_day"))
+
+19
+00:00:12,764 --> 00:00:13,934
+1. selectOptionByValue(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/applyleave_firstDuration_ampm"), duration2, true)
+
+20
+00:00:13,935 --> 00:00:13,936
+9. if (duration1.equals("specify_time"))
+
+21
+00:00:13,937 --> 00:00:15,165
+13. selectOptionByValue(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/select_Half DaySpecify Time_1"), duration4, true)
+
+22
+00:00:15,167 --> 00:00:15,167
+17. if (duration4.equals("half_day"))
+
+23
+00:00:15,168 --> 00:00:15,169
+21. if (duration4.equals("specify_time"))
+
+24
+00:00:15,170 --> 00:00:18,237
+1. selectOptionByValue(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/applyleave_secondDuration_time_from"), duration5, true)
+
+25
+00:00:18,238 --> 00:00:21,694
+5. selectOptionByValue(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/applyleave_secondDuration_time_to"), duration6, true)
+
+26
+00:00:21,695 --> 00:00:22,190
+49. scrollToElement(findTestObject("Apply Leave/Page_OrangeHRM/input__applyBtn"), 0)
+
+27
+00:00:22,191 --> 00:00:22,741
+53. takeScreenshot()
+
+28
+00:00:22,742 --> 00:00:24,840
+57. click(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input__applyBtn"))
+
+29
+00:00:24,841 --> 00:00:26,782
+61. navigateToUrl("http://localhost/orangehrm/symfony/web/index.php/leave/viewMyLeaveList/reset/1")
+
+30
+00:00:26,783 --> 00:00:28,734
+65. setText(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input_From_leaveListcalFromDate"), from)
+
+31
+00:00:28,735 --> 00:00:29,250
+69. sendKeys(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input_From_leaveListcalFromDate"), Keys.chord(ENTER))
+
+32
+00:00:29,251 --> 00:00:30,524
+73. setText(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input_To_leaveListcalToDate"), to)
+
+33
+00:00:30,525 --> 00:00:31,015
+77. sendKeys(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input_To_leaveListcalToDate"), Keys.chord(ENTER))
+
+34
+00:00:31,016 --> 00:00:31,637
+81. uncheck(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input_All_leaveList_chkSearchFilter_checkbo_a698f3"))
+
+35
+00:00:31,638 --> 00:00:32,211
+85. check(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input_Pending Approval_leaveListchkSearchFilter"))
+
+36
+00:00:32,212 --> 00:00:33,904
+89. click(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/input_Taken_btnSearch"))
+
+37
+00:00:33,905 --> 00:00:35,280
+93. scrollToElement(findTestObject("Apply Leave/Page_OrangeHRM/th_Date"), 0)
+
+38
+00:00:35,281 --> 00:00:35,885
+97. takeScreenshot()
+
+39
+00:00:35,885 --> 00:00:35,886
+101. if (days.equals(""))
+
+40
+00:00:35,887 --> 00:00:36,381
+1. verifyMatch(getText(findTestObject("Object Repository/Apply Leave/Page_OrangeHRM/td_No Records Found")), "No Records Found", false, STOP_ON_FAILURE)
+

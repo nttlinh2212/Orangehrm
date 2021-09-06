@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+http://localhost/orangehrm,100,12806,220,26925,8594.5,1.00%,2.86763,3358.89,52.17,1199422.9
+validateCredentials,100,13912,2089,21923,4176.6,33.00%,1.59314,366.22,50.93,235390.5
+Thread Group:Test,100,26719,5948,44447,7960.97,34.00%,1.45474,2038.35,72.97,1434813.4
+TOTAL,300,17812,220,44447,9561.78,22.67%,4.36421,4076.71,145.94,956542.3

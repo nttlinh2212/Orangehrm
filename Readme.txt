@@ -2,9 +2,11 @@ Group E1
 18127127 Nguyễn Thị Thùy Linh
 18127274 Nguyễn Lê Đức Hoàng
 
-
-	- Nhóm E1 có 4 thành viên ban đầu và giờ hiện tại còn 2 thành viên như trên
-	- Trên testlink, 2 thành viên hiện tại của nhóm gồm có 424 testcase đã thiết kế và execute 100%, riêng phần Buzz(57 testcase) của thành viên cũ sẽ bị bôi đen trong test case report xuất ra từ testlink và không được đưa vào thống kê trong các report.
-	- Ở phần bug export từ mantis, đối với những bug bỏ đi nhóm sẽ add note và ở tài liệu bug nộp thầy thì bị bôi đen
-	- Tại nhóm execute testcase ở trên nhiều bản build khác nhau nên khi xuất ra có nhiều test case chưa run trên các bản build khác, vì vậy mong thầy chú ý giúp nhóm em phần này với ạ. 
-	- Số lượng test case fail là 37 nhưng số lượng bug là 34 tại vì có 4 test case cùng một bug
+This Project to test Orangehrm ver 4.5 
+Link source code: https://github.com/orangehrm/orangehrm/releases/tag/v4.5
+Link live application: https://opensource-demo.orangehrmlive.com/
+Scope: 2 modules: Leave(Linh), Admin (Hoàng)
+Apply techniques: Domain Testing, Boundary value analysis, State Transition
+Apply types of testing: functionality, security, gui&usability, performance, compatibility
+Completing with 424 testcase(all test cases uploaded on Testlink and bug mantis) and execute 100%
+Find 34 bugs and reported on Bug mantis
